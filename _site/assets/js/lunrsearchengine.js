@@ -22,7 +22,7 @@ var documents = [{
     }, {
     "id": 4,
     "url": "http://localhost:4000/",
-    "title": "Home",
+    "title": "Halaman Awal",
     "body": "                                                                                               Mencintai Seseorang Karena Allah.               :       Cinta merupakan fitrah dari setiap manusia, tidak ada manusia yang ingin hidup tanpa cinta di dunia ini. Setiap manusia pasti ingin dicintai dan memiliki cinta di dalam hatinya. :                                                                               @mudaislami                 25 May 2020                                "
     }, {
     "id": 5,
