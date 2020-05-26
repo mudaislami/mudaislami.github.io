@@ -2,10 +2,15 @@
 layout: post
 title:  "Mencintai Seseorang Karena Allah."
 author: mudaislami
-categories: [ Lifestyle ]
-tags: [ France ]
-image: assets/images/2.jpg
+categories: [ Dakwah, Reminder ]
+tags: [ Cinta ]
+image: assets/images/12.jpg
 ---
+Cinta merupakan fitrah dari setiap manusia, tidak ada manusia yang ingin hidup tanpa cinta di dunia ini. Setiap manusia pasti ingin dicintai dan memiliki cinta di dalam hatinya.
+
+Tak ada yang salah dalam mencintai seseorang. Tak ada yang salah dalam menaruh hati kepada seseorang. Karena kadang kita tak bisa memilih kepada siapa cinta itu berlabuh. Namun, kita tetap dapat memilih untuk mengendalikan perasaan kita.
+
+> Ya Allah, jika dia baik untukku, agamaku, dan masa depanku, dekatkanlah dia padaku dan dekatkanlah aku padanya.
 
 Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.
 

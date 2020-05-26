@@ -2,16 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Muda Islami</title>
-    <description>I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!</description>
+    <description>Kebetulan menemukan halaman ini? Tidak, semua sudah bagian dari rencana-Nya!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 May 2020 21:09:16 +0700</pubDate>
-    <lastBuildDate>Tue, 26 May 2020 21:09:16 +0700</lastBuildDate>
+    <pubDate>Tue, 26 May 2020 23:06:28 +0700</pubDate>
+    <lastBuildDate>Tue, 26 May 2020 23:06:28 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
         <title>Mencintai Seseorang Karena Allah.</title>
-        <description>&lt;p&gt;Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.&lt;/p&gt;
+        <description>&lt;p&gt;Cinta merupakan fitrah dari setiap manusia, tidak ada manusia yang ingin hidup tanpa cinta di dunia ini. Setiap manusia pasti ingin dicintai dan memiliki cinta di dalam hatinya.&lt;/p&gt;
+
+&lt;p&gt;Tak ada yang salah dalam mencintai seseorang. Tak ada yang salah dalam menaruh hati kepada seseorang. Karena kadang kita tak bisa memilih kepada siapa cinta itu berlabuh. Namun, kita tetap dapat memilih untuk mengendalikan perasaan kita.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ya Allah, jika dia baik untukku, agamaku, dan masa depanku, dekatkanlah dia padaku dan dekatkanlah aku padanya.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.&lt;/p&gt;
@@ -27,10 +35,12 @@
         <link>http://localhost:4000/mencintai-seseorang-karena-allah/</link>
         <guid isPermaLink="true">http://localhost:4000/mencintai-seseorang-karena-allah/</guid>
         
-        <category>France</category>
+        <category>Cinta</category>
         
         
-        <category>Lifestyle</category>
+        <category>Dakwah</category>
+        
+        <category>Reminder</category>
         
       </item>
     
