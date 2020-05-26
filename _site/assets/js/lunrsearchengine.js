@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "                                                                                               Mencintai Seseorang Karena Allah.               :       Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar. . . :                                                                               Muda Islami                 25 May 2020                                "
+    "body": "                                                                                               Mencintai Seseorang Karena Allah.               :       Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar. . . :                                                                               @mudaislami                 25 May 2020                                "
     }, {
     "id": 5,
     "url": "http://localhost:4000/robots.txt",
