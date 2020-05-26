@@ -2,8 +2,8 @@
 name: "Muda Islami"
 title: "Muda Islami"
 description: "Kebetulan menemukan halaman ini? Tidak, semua sudah bagian dari rencana-Nya!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.webp'
+favicon: 'assets/images/logo.webp'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'mudaislami'
