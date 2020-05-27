@@ -1,39 +1,39 @@
 
 var documents = [{
     "id": 0,
-    "url": "http://localhost:4000/404.html",
+    "url": "http://0.0.0.0:4000/404.html",
     "title": "404",
     "body": "404 Page not found!Please use the search bar from the bottom left or visit our homepage! "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/tentang",
+    "url": "http://0.0.0.0:4000/tentang",
     "title": "Memoirs, a free minimalist Jekyll blogging theme with modern design",
     "body": "This website is a demonstration to see Memoirs Jekyll theme in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.  Get Memoirs for Jekyll → "
     }, {
     "id": 2,
-    "url": "http://localhost:4000/categories",
+    "url": "http://0.0.0.0:4000/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 3,
-    "url": "http://localhost:4000/kontak",
+    "url": "http://0.0.0.0:4000/kontak",
     "title": "Kontak",
     "body": "  Silahkan kirim pesan anda untuk Muda Islami. Kita akan balas sesegara mungkin!   "
     }, {
     "id": 4,
-    "url": "http://localhost:4000/",
+    "url": "http://0.0.0.0:4000/",
     "title": "Halaman Awal",
-    "body": "                                                                                               Mencintai Seseorang Karena Allah.               :       :sweat_smile: :sweat_smile: Cinta merupakan fitrah dari setiap manusia, tidak ada manusia yang ingin hidup tanpa cinta di dunia ini. Setiap manusia pasti ingin dicintai dan memiliki cinta di dalam hatinya. . . . :                                                                               @mudaislami                 25 May 2020                                "
+    "body": "                                                                                               Pantaskah Aku Berdakwah?              :       Alhamdulillah teman-teman, ini adalah tulisan paling awal di website kita @mudaislami. Semoga dengan adanya website ini dapat menjadikan dakwah ini semakin meluas dan semakin bermanfaat bagi banyak orang. :                                                                               @mudaislami                 27 May 2020                                "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/robots.txt",
+    "url": "http://0.0.0.0:4000/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 6,
-    "url": "http://localhost:4000/mencintai-seseorang-karena-allah/",
-    "title": "Mencintai Seseorang Karena Allah.",
-    "body": "2020/05/25 - :sweat_smile: :sweat_smile:Cinta merupakan fitrah dari setiap manusia, tidak ada manusia yang ingin hidup tanpa cinta di dunia ini. Setiap manusia pasti ingin dicintai dan memiliki cinta di dalam hatinya. Tak ada yang salah dalam mencintai seseorang. Tak ada yang salah dalam menaruh hati kepada seseorang. Karena kadang kita tak bisa memilih kepada siapa cinta itu berlabuh. Namun, kita tetap dapat memilih untuk mengendalikan perasaan kita.  Ya Allah, jika dia baik untukku, agamaku, dan masa depanku, dekatkanlah dia padaku dan dekatkanlah aku padanya. Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.  It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel. Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier. Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache. In 2017 Hache opened a smaller restaurant, L’Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar. "
+    "url": "http://0.0.0.0:4000/pantaskah-aku-berdakwah/",
+    "title": "Pantaskah Aku Berdakwah?",
+    "body": "2020/05/27 - Alhamdulillah teman-teman, ini adalah tulisan paling awal di website kita @mudaislami. Semoga dengan adanya website ini dapat menjadikan dakwah ini semakin meluas dan semakin bermanfaat bagi banyak orang. Pada artikel ini kita akan membahas mengenai dakwah dan kepantasan diri. Kebanyakan orang masih menganggap bahwa dalam menyampaikan kebaikan, maka diri ini harus terlebih dahulu menjadi sempurna kebaikannya. Padahal tidak demikian teman-teman, karena kita semua pasti tak pernah lepas dari dosa dan kesalahan. Bahkan Imam Al-Hasan Al-Bashri pernah mengatakan,  “Wahai sekalian manusia sungguh aku akan memberikan nasihat kepada kalian padahal aku bukanlah orang yang paling shalih dan yang paling baik di antara kalian. Sungguh aku memiliki banyak maksiat dan tidak mampu mengontrol dan mengekang diriku supaya selalu taat kepada Allah. Andai seorang mukmin tidak boleh memberikan nasihat kepada saudaranya kecuali setelah mampu mengontrol dirinya niscaya hilanglah para pemberi nasihat dan minimlah orang-orang yang mau mengingatkan. ” (Tafsir Qurthubi, 1/410) Maka, hendaklah kita saling mengingatkan akan kebaikan tanpa harus menunggu menjadi sempurna. Kesempurnaan hanya milik Allah Ta’aala. Kita sebagai seorang muslim memiliki kewajiban untuk saling mengingatkan dan menasehati, entah diri kita sudah baik atau belum. Tentunya dalam menasehati atau mengingatkan haruslah dilakukan dengan cara yang baik. Apa yang kita sampaikan kepada orang lain, juga harus bisa kita pertanggungjawabkan, apalagi kalau itu perihal agama. Reminder bagi kita semua, bahwa meski tak harus menjadi sempurna untuk berdakwah, menyampaikan kebaikan, atau menasehati sesama, kita tetap tidak boleh sembarang dalam menyampaikan sesuatu. Jadikanlah Al-Qur’an dan Al-Hadits sebagai pedoman, bukannya hawa nafsu kita. Jangan pula mengartikan ayat atau hadits tanpa ilmu, karena bisa jadi kita akan tersesat dalam memahaminya. Bertanyalah kepada yang memiliki kapasitas terhadap ilmu tersebut, yaitu kepada ulama yang memegang teguh Al-Qur’an dan Al-Hadits. Sebelum mengakhiri tulisan, saya akan sampaikan sebuah hadits, dari Abdullah bin Amr radhiyallahu ta’ala ‘anhu, bahwa Nabi shallallaahu ‘alaihi wa sallam bersabda,  “Sampaikanlah dariku walau hanya satu ayat” (HR. Bukhari) Rasulullah memerintahkan kita untuk menyampaikan perkara agama dari beliau. Maka setiap kali kita menyampaikan hal tersebut dan dilihat, didengar atau diamalkan oleh orang lain, insyaAllah bagi kita pahala kebaikan yang terus mengalir meski kita telah pergi meninggalkan dunia ini. Sekian untuk tulisan kali ini, mungkin tidak banyak tapi semoga apa yang tertulis di sini dapat memotivasi teman-teman untuk semakin semangat dalam menyampaikan kebaikan dengan bertanggung jawab. :innocent: "
     }];
 
 var idx = lunr(function () {
