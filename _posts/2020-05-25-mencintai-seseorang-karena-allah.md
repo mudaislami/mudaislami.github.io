@@ -6,8 +6,9 @@ categories: [ Dakwah, Reminder ]
 tags: [ Cinta ]
 image: assets/images/12.jpg
 ---
+:sweat_smile: :sweat_smile:
 Cinta merupakan fitrah dari setiap manusia, tidak ada manusia yang ingin hidup tanpa cinta di dunia ini. Setiap manusia pasti ingin dicintai dan memiliki cinta di dalam hatinya.
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Tak ada yang salah dalam mencintai seseorang. Tak ada yang salah dalam menaruh hati kepada seseorang. Karena kadang kita tak bisa memilih kepada siapa cinta itu berlabuh. Namun, kita tetap dapat memilih untuk mengendalikan perasaan kita.
 
 > Ya Allah, jika dia baik untukku, agamaku, dan masa depanku, dekatkanlah dia padaku dan dekatkanlah aku padanya.
