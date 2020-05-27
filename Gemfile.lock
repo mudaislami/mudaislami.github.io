@@ -37,8 +37,10 @@ GEM
       http_parser.rb (~> 0.6.0)
     erubi (1.9.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
     execjs (2.7.0)
     ffi (1.12.2)
+    ffi (1.12.2-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.2)
@@ -89,6 +91,8 @@ GEM
     minitest (5.14.1)
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
+    nokogiri (1.10.9-x64-mingw32)
+      mini_portile2 (~> 2.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     popper_js (1.16.0)
@@ -116,6 +120,8 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.3.0)
       ffi (~> 1.9)
+    sassc (2.3.0-x64-mingw32)
+      ffi (~> 1.9)
     sassc-rails (2.1.2)
       railties (>= 4.0.0)
       sassc (>= 2.0)
@@ -137,10 +143,12 @@ GEM
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
     unicode-display_width (1.7.0)
+    wdm (0.1.1)
     zeitwerk (2.3.0)
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   bootstrap (~> 4.4.1)
@@ -152,6 +160,7 @@ DEPENDENCIES
   jekyll-sitemap
   kramdown
   rouge
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.1.4
