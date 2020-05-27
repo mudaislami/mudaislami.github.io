@@ -29,6 +29,25 @@
 <link href="/assets/css/theme.css" rel="stylesheet">
 
 <script src="/assets/js/jquery.min.js"></script>
+<link rel="manifest" href="/manifest.json">
+  <script>
+
+if ("serviceWorker" in navigator) {
+  if (navigator.serviceWorker.controller) {
+    console.log("An active service worker found, no need to register");
+  } else {
+    // Register the service worker
+    navigator.serviceWorker
+      .register("/serviceworker.js", {
+        scope: "./"
+      })
+      .then(function (reg) {
+        console.log("Service worker has been registered for scope: " + reg.scope);
+      });
+  }
+}
+
+  </script>
 
 </head>
 
