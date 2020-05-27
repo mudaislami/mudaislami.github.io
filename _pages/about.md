@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: '@mudaislami merupakan akun dakwah yang ada di instagram dan facebook. Kontennya berisikan dakwah, reminder, dan quotes.'
 permalink: /tentang
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+Website ini merupakan media resmi dari halaman **Muda Islami**. 
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+Di sini kita akan memuat pembahasan tulisan secara lebih mendalam, tips seputar dakwah dengan memanfaatkan teknologi yang kita miliki saat ini, dan artikel dakwah. :love_letter:
+
+<a target="_blank" href="https://instagram.com/mudaislami/" class="btn btn-dark"> Ke instagram @mudaislami &rarr;</a>
+
+<a target="_blank" href="https://facebook.com/mudaislami.id/" class="btn btn-dark"> Ke facebook @mudaislami &rarr;</a>
 
