@@ -3,11 +3,56 @@
   <channel>
     <title>Muda Islami</title>
     <description>Kebetulan menemukan halaman ini? Tidak, semua sudah bagian dari rencana-Nya!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 May 2020 09:47:37 +0700</pubDate>
-    <lastBuildDate>Thu, 28 May 2020 09:47:37 +0700</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 28 May 2020 20:13:14 +0700</pubDate>
+    <lastBuildDate>Thu, 28 May 2020 20:13:14 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>Jangan Lupa Berdoa saat Berjuang</title>
+        <description>&lt;p&gt;Mungkin kita pernah ingin menjadi yang terbaik dalam suatu hal dalam hidup ini. Kita tetapkan target untuk kita capai, lalu kita berjuang untuk mencapainya dengan “mati-matian”.&lt;/p&gt;
+
+&lt;p&gt;Di saat berjuang, seringkali kita lihat seakan-akan orang lain begitu mudah untuk menggapai kesuksesan dan menjadi yang terbaik. Berbeda dengan diri ini, yang walau berjuang dengan sangat keras namun kesuksesan masih belum juga tercapai.&lt;/p&gt;
+
+&lt;p&gt;Pada kondisi seperti ini, beberapa dari kita akan mulai menyalahkan keadaan. Menyalahkan kehidupan, menyalahkan takdir dan akhirnya menyalahkan Allah karena menganggap semua ini tak adil.&lt;/p&gt;
+
+&lt;p&gt;Bahkan mungkin diantara kita ada yang rela menjalankan berbagai macam cara meski itu haram untuk mencapai tujuan tersebut. Lalu saat hasil belum juga terlihat? Maka lagi-lagi masih ada diantara kita yang menganggap bahwa Allah tidak adil.&lt;/p&gt;
+
+&lt;p&gt;Padahal Allah telah berfirman pada ayat,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Sesungguhnya Allah tidak akan mengubah nasib suatu kaum hingga mereka mengubah diri mereka sendiri,” &lt;strong&gt;&lt;em&gt;(QS. Ar-Ra’d:11)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Maka sudah jelas bahwa apapun kondisi kita saat ini, jika kita mau berubah jadi lebih baik maka kita harus berusaha untuk mengubahnya.&lt;/p&gt;
+
+&lt;p&gt;Pada saat kita melihat kesuksesan orang lain, mungkin kita hanya melihat hasil akhir dari perjuangannya selama ini. Di balik itu semua terdapat waktu, pengorbanan, dan usaha yang panjang untuk mencapainya. Bahkan bisa jadi terdapat doa-doanya yang membumbung tinggi di setiap malam. Doa-doa orang tua, teman, dan doa orang-orang yang pernah dia bantu.&lt;/p&gt;
+
+&lt;p&gt;Maka dalam perjuangan untuk menjadi yang terbaik waktu yang panjang, usaha yang keras, dan pengorbanan yang besar tidaklah cukup. Berdoalah, karena doa merupakan bentuk ikhtiar kita untuk mencapai tujuan dan ingatlah bahwa doa itu dapat mengubah takdir. Bersabda Rasulullah shollallahu ’alaih wa sallam:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Tidak ada yang dapat menolak taqdir (ketentuan) Allah ta’aala selain do’a. Dan Tidak ada yang dapat menambah (memperpanjang) umur seseorang selain (perbuatan) baik.” &lt;strong&gt;&lt;em&gt;(HR Tirmidzi 2065)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sebegitu tinggi kedudukan doa pada ajaran islam. Maka jangan pernah lupa untuk berdoa dalam berjuang dan di setiap keadaan. :heart:&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 May 2020 00:00:00 +0700</pubDate>
+        <link>http://0.0.0.0:4000/jangan-lupa-berdoa-dalam-berjuang/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/jangan-lupa-berdoa-dalam-berjuang/</guid>
+        
+        <category>Berdoa</category>
+        
+        <category>Berjuang</category>
+        
+        
+        <category>Dakwah</category>
+        
+        <category>Artikel</category>
+        
+        <category>Reminder</category>
+        
+      </item>
     
       <item>
         <title>Pantaskah Aku Berdakwah?</title>
@@ -47,8 +92,8 @@
 
 </description>
         <pubDate>Wed, 27 May 2020 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/pantaskah-aku-berdakwah/</link>
-        <guid isPermaLink="true">http://localhost:4000/pantaskah-aku-berdakwah/</guid>
+        <link>http://0.0.0.0:4000/pantaskah-aku-berdakwah/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/pantaskah-aku-berdakwah/</guid>
         
         <category>Media Sosial</category>
         
