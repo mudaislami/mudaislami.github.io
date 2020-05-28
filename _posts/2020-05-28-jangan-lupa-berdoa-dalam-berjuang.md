@@ -6,7 +6,6 @@ categories: [ Dakwah, Artikel, Reminder ]
 tags: [ Berdoa, Berjuang ]
 image: assets/images/2-jangan-lupa-berdoa-saat-berjuang.jpg
 ---
- 
 Mungkin kita pernah ingin menjadi yang terbaik dalam suatu hal dalam hidup ini. Kita tetapkan target untuk kita capai, lalu kita berjuang untuk mencapainya dengan "mati-matian".
  
 Di saat berjuang, seringkali kita lihat seakan-akan orang lain begitu mudah untuk menggapai kesuksesan dan menjadi yang terbaik. Berbeda dengan diri ini, yang walau berjuang dengan sangat keras namun kesuksesan masih belum juga tercapai.
