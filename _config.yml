@@ -5,7 +5,7 @@ description: "Kebetulan menemukan halaman ini? Tidak, semua sudah bagian dari re
 logo: 'assets/images/logo.webp'
 favicon: 'assets/images/logo.webp'
 baseurl: ''
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'G-S0FGPLKDLR'
 disqus: 'mudaislami'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -61,7 +61,7 @@ adsense-data-ad-client: "ca-pub-9534481020954137"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 # Post Author Box ("enabled" or "disabled")
 authorbox: "disabled"
