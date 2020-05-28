@@ -1,0 +1,102 @@
+I"/<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/jangan-lupa-berdoa-dalam-berjuang/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/2-jangan-lupa-berdoa-saat-berjuang.jpg" alt="Jangan Lupa Berdoa dalam Berjuang" />
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/jangan-lupa-berdoa-dalam-berjuang/">Jangan Lupa Berdoa dalam Berjuang</a>
+                
+            </h2>
+            <h4 class="card-text">Mungkin kita pernah ingin menjadi yang terbaik dalam suatu hal dalam hidup ini. Kita tetapkan target untuk kita capai, lalu kita berjuang untuk mencapainya dengan “mati-matian”. Di saat berjuang, seringkali...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/52374c578ca1507feebeedd19fab7ae6?s=250&amp;d=mm&amp;r=x" alt="@mudaislami" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" rel="noopener" href="https://instagram.com/mudaislami/">@mudaislami</a></span> 
+                
+                <span class="post-date">28 May 2020</span>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+    
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/pantaskah-aku-berdakwah/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/1-pantaskah-aku-berdakwah.jpg" alt="Pantaskah Aku Berdakwah?" />
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/pantaskah-aku-berdakwah/">Pantaskah Aku Berdakwah?</a>
+                
+            </h2>
+            <h4 class="card-text">Alhamdulillah teman-teman, ini adalah tulisan paling awal di website kita @mudaislami. Semoga dengan adanya website ini dapat menjadikan dakwah ini semakin meluas dan semakin bermanfaat bagi banyak orang.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/52374c578ca1507feebeedd19fab7ae6?s=250&amp;d=mm&amp;r=x" alt="@mudaislami" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" rel="noopener" href="https://instagram.com/mudaislami/">@mudaislami</a></span> 
+                
+                <span class="post-date">27 May 2020</span>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+    
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    
+</span>
+</div>
+
+:ET

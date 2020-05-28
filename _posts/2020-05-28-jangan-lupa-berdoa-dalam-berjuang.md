@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jangan Lupa Berdoa saat Berjuang"
+title:  "Jangan Lupa Berdoa dalam Berjuang"
 author: mudaislami
 categories: [ Dakwah, Artikel, Reminder ]
 tags: [ Berdoa, Berjuang ]
