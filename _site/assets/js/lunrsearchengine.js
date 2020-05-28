@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "http://localhost:4000/",
     "title": "Halaman Awal",
-    "body": "                                                                                               Pantaskah Aku Berdakwah?              :       Alhamdulillah teman-teman, ini adalah tulisan paling awal di website kita @mudaislami. Semoga dengan adanya website ini dapat menjadikan dakwah ini semakin meluas dan semakin bermanfaat bagi banyak orang. :                                                                               @mudaislami                 27 May 2020                                "
+    "body": "                                                                                              Pantaskah Aku Berdakwah?              :       Alhamdulillah teman-teman, ini adalah tulisan paling awal di website kita @mudaislami. Semoga dengan adanya website ini dapat menjadikan dakwah ini semakin meluas dan semakin bermanfaat bagi banyak orang. :                                                                               @mudaislami                 27 May 2020                                "
     }, {
     "id": 5,
     "url": "http://localhost:4000/robots.txt",
