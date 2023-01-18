@@ -105,7 +105,7 @@ GEM
       forwardable-extended (~> 2.6)
     popper_js (1.16.0)
     public_suffix (4.0.5)
-    rack (2.2.2)
+    rack (2.2.6.2)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails-dom-testing (2.0.3)
@@ -151,7 +151,6 @@ GEM
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
     unicode-display_width (1.7.0)
-    wdm (0.1.1)
     zeitwerk (2.3.0)
 
 PLATFORMS
@@ -169,7 +168,6 @@ DEPENDENCIES
   jemoji
   kramdown
   rouge
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.1.4
